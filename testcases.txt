@@ -1,0 +1,37 @@
+Enter Team Name(All-Caps): BILLS
+2
+BILLS is already in array at #3
+
+Enter Team Name(All-Caps): JAGUARS
+12
+JAGUARS stored in #5
+
+Enter Team Name(All-Caps): PACKERS
+8
+PACKERS stored in #8
+
+Enter Team Name(All-Caps): GIANTS
+5
+GIANTS stored in #7
+
+Enter Team Name(All-Caps): JETS
+2
+JETS is already in array at #2
+
+Enter Team Name(All-Caps): RAVENS
+1
+RAVENS stored in #9
+
+0. BROWNS
+1. PATRIOTS
+2. JETS
+3. BILLS
+4. OILERS
+5. JAGUARS
+6. DOLPHINS
+7. GIANTS
+8. PACKERS
+9. RAVENS
+10.
+11.
+12. STEELERS
